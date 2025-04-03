@@ -25,15 +25,12 @@
 
 ### 📊 Statistics
 
-<div align="center">
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devsungyeon&show_icons=true&theme=holi" width="400" style="vertical-align: top;" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsungyeon&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" width="400" style="vertical-align: top;" />
+</p>
 
-  <!-- GitHub Stats -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devsungyeon&show_icons=true&theme=holi" width="48%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsungyeon&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" width="48%" />
-
-</div>
 
 <br/>
 
