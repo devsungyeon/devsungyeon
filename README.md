@@ -12,10 +12,9 @@
 <br>
 <div>
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsungyeon&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-
-<div align="left">
-  <img src="https://leetcard.jacoblin.cool/devsungyeon?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" width="90%" />
 </div>
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/devsungyeon?theme=unicorn&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" width="90%" />
 </div>
 </div>
 
