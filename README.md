@@ -44,19 +44,27 @@
 
 ---
 
-### 💻 BOJ (Baekjoon Online Judge)
+### 💻 BOJ (Baekjoon Online Judge) & Programmers
 
 <div align="center">
-  <img alt="BOJ Stats" src="http://mazassumnida.wtf/api/generate_badge?boj=devsungyeon" width="60%" />
+  <table>
+    <tr>
+      <td align="center"><b>BOJ</b></td>
+      <td align="center"><b>Programmers</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=devsungyeon" width="90%" alt="BOJ Badge"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/devsungyeon/Programmers_Badge_Generator/main/result/result.svg" width="90%" alt="Programmers Badge"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 💻 Programmers
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devsungyeon/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" width="60%" />
-</div>
 
 ### 💻 LeetCode
 
